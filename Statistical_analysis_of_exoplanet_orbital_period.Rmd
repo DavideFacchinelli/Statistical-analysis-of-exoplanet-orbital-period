@@ -1,7 +1,6 @@
 ---
 title: "Statistical analysis of exoplanet orbital period"
 author: "Davide Facchinelli"
-date: "21/07/2019"
 fontsize: 12pt
 output:
   github_document:
